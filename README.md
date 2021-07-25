@@ -1,4 +1,7 @@
-### Hi there 👋
+I am focusing on Dataflow Matrix Machines (Neuromorphic Computations with Linear Streams):
+
+https://anhinga.github.io/
+
 
 <!--
 **anhinga/anhinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
