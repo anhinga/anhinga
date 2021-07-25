@@ -8,7 +8,7 @@ I am presenting a virtual poster at JuliaCon 2021 on July 30.
 
 https://github.com/anhinga/JuliaCon2021-poster
 
-`I am looking for collaborators (ping me by opening an issue).`
+✅ `I am looking for collaborators (ping me by opening an issue).`
 
 
 <!--
