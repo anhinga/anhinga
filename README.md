@@ -2,6 +2,12 @@ I am focusing on Dataflow Matrix Machines (Neuromorphic Computations with Linear
 
 https://anhinga.github.io/
 
+I am presenting a virtual poster at JuliaCon 2021 on July 30.
+
+"Multiplying monochrome images as matrices: A*B and softmax":
+
+https://github.com/anhinga/JuliaCon2021-poster
+
 
 <!--
 **anhinga/anhinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
