@@ -1,5 +1,5 @@
-I am focusing on Dataflow Matrix Machines (neuromorphic computations with linear streams resulting in
-**continuously deformable programs** and neural machines with convenient and flexible 
+I am focusing on Dataflow Matrix Machines (neuromorphic computations with linear streams which yield
+general-purpose **continuously deformable programs** and neural machines with convenient and flexible 
 **self-modification facilities for compositional metalearning**):
 
 https://anhinga.github.io/
