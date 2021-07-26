@@ -1,5 +1,5 @@
 I am focusing on Dataflow Matrix Machines which perform neuromorphic computations with linear streams.
-Dataflow Matrix Machine allows us to obtain general-purpose **continuously deformable programs** 
+Dataflow Matrix Machine allow us to obtain general-purpose **continuously deformable programs** 
 and neural machines with convenient and flexible 
 **self-modification facilities for compositional metalearning**:
 
