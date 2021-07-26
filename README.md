@@ -1,10 +1,11 @@
-I am focusing on Dataflow Matrix Machines (neuromorphic computations with linear streams which yield
-general-purpose **continuously deformable programs** and neural machines with convenient and flexible 
-**self-modification facilities for compositional metalearning**):
+I am focusing on Dataflow Matrix Machines which perform neuromorphic computations with linear streams.
+Dataflow Matrix Machine allows us to obtain general-purpose **continuously deformable programs** 
+and neural machines with convenient and flexible 
+**self-modification facilities for compositional metalearning**:
 
 https://anhinga.github.io/
 
-I am presenting a virtual poster at JuliaCon 2021 on July 30.
+I am presenting a virtual poster at JuliaCon 2021 on July 30:
 
 "Multiplying monochrome images as matrices: A*B and softmax":
 
