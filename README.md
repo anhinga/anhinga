@@ -6,7 +6,7 @@ and neural machines with convenient and flexible
 
 https://anhinga.github.io/
 
-I am presenting a virtual poster at JuliaCon 2021 on July 30:
+I presented a virtual poster at JuliaCon 2021 on July 30:
 
 "Multiplying monochrome images as matrices: A*B and softmax":
 
