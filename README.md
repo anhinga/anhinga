@@ -6,16 +6,25 @@ and neural machines with convenient and flexible
 
 https://anhinga.github.io/
 
+---
+
 I presented a virtual poster at JuliaCon 2021 on July 30:
 
 "Multiplying monochrome images as matrices: A*B and softmax":
 
 https://github.com/anhinga/JuliaCon2021-poster
 
+---
+
 ✅ `I am looking for collaborators (ping me by opening an issue).`
 
+---
+
 Wanted: Functionality of JAX pytrees implemented in Zygote.jl/Diffractor.jl
+
 (the ability to take gradients with respect to variables assembled into tree-like structures)
+
+---
 
 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦
 
