@@ -14,6 +14,8 @@ https://github.com/anhinga/JuliaCon2021-poster
 
 ✅ `I am looking for collaborators (ping me by opening an issue).`
 
+🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦
+
 
 <!--
 **anhinga/anhinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
