@@ -14,6 +14,9 @@ https://github.com/anhinga/JuliaCon2021-poster
 
 ✅ `I am looking for collaborators (ping me by opening an issue).`
 
+Wanted: Functionality of JAX pytrees implemented in Zygote.jl/Diffractor.jl
+(the ability to take gradients with respect to variables assembled into tree-like structures)
+
 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦
 
 
