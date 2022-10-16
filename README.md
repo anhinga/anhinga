@@ -20,26 +20,4 @@ https://github.com/anhinga/JuliaCon2021-poster
 
 ---
 
-Wanted: Functionality of JAX pytrees implemented in Zygote.jl/Diffractor.jl
-
-(the ability to take gradients with respect to variables assembled into tree-like structures)
-
----
-
 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦 🇺🇦
-
-
-<!--
-**anhinga/anhinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
