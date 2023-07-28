@@ -16,6 +16,14 @@ https://github.com/anhinga/JuliaCon2021-poster
 
 ---
 
+Materials for my JuliaCon 2023 talk:
+
+"Exploring synthesis of flexible neural machines with Zygote.jl":
+
+https://github.com/anhinga/DMM-synthesis-lab-journal/tree/main/JuliaCon2023-talk
+
+---
+
 ✅ `I am looking for collaborators (ping me by opening an issue).`
 
 ---
