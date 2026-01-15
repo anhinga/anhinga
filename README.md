@@ -24,6 +24,10 @@ https://github.com/anhinga/DMM-synthesis-lab-journal/tree/main/JuliaCon2023-talk
 
 ---
 
+My github account for automation and AI agents: https://github.com/anhinga-auto
+
+---
+
 ✅ `I am looking for collaborators (ping me by opening an issue).`
 
 ---
