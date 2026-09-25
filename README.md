@@ -24,6 +24,13 @@ https://github.com/anhinga/DMM-synthesis-lab-journal/tree/main/JuliaCon2023-talk
 
 ---
 
+September 6, 2006, GPT-6-Astra produced a counterexample to the conjecture that
+all complete lattices can be represented as sets of fixed points of Scott continuous transformations of powersets:
+
+https://github.com/anhinga/with-astra-and-fable/tree/main/complete-lattice-counterexample
+
+---
+
 My github account for automation and AI agents: https://github.com/anhinga-auto
 
 ---
